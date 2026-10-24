@@ -1,0 +1,10 @@
+{
+  "name": "obs-heic",
+  "version-string": "1.1.0",
+  "dependencies": [
+    {
+      "name": "libheif",
+      "default-features": false
+    }
+  ]
+}
